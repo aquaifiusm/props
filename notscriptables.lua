@@ -331,5 +331,6 @@ return {
     "Part0Internal",
     "Part1Internal",
     "State",
-    "massless"
+    "Massless",
+    "PhysicsGrid"
 }
