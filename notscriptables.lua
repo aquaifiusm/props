@@ -204,6 +204,7 @@ return {
     "RenderFidelityReplicate",
     "VertexCount",
     "AssetId",
+    ["size_xml"] = 5,
     "CSGMesh2KernelMap",
     "CSGPropertyData",
     "ChildData",
